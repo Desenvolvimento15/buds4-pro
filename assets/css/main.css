@@ -1,3 +1,8 @@
+.video_self {
+  height: 100%;
+  width: 100%;
+}
+
 .div1 {
   align-items: flex-start;
   background: #000;
@@ -648,7 +653,7 @@
   font-size: 1.333333rem;
   line-height: 1.5rem;
   text-align: center;
-  width: 18.3125rem;
+  width: 20rem;
 }
 .div1 .div2 .div54 .div57 {
   align-items: center;
@@ -1198,7 +1203,9 @@
   margin-left: 0.4375rem;
   min-height: 1.25rem;
   width: 9.875rem;
+  padding-bottom: 2rem;
 }
+
 .div1 .div2 .div94 .div95 .split_text1951 {
   color: #fff;
   font-family: CamphorProForXiaoMi-Bold;
