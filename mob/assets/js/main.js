@@ -9388,7 +9388,7 @@
               }
               if (
                 "video" === t.nodeName.toLowerCase() &&
-                !t.getAttribute("data-src") &&
+                !t.getAttribute("src") &&
                 t.children
               ) {
                 for (
@@ -9396,15 +9396,15 @@
                   a <= n.length - 1;
                   a++
                 )
-                  (o = n[a].getAttribute("data-src")) && (n[a].src = o);
+                  (o = n[a].getAttribute("src")) && (n[a].src = o);
                 t.load();
               }
               t.getAttribute("data-poster") &&
                 (t.poster = t.getAttribute("data-poster")),
-                t.getAttribute("data-src") &&
-                  (t.src = t.getAttribute("data-src")),
-                t.getAttribute("data-srcset") &&
-                  t.setAttribute("srcset", t.getAttribute("data-srcset"));
+                t.getAttribute("src") &&
+                  (t.src = t.getAttribute("src")),
+                t.getAttribute("srcset") &&
+                  t.setAttribute("srcset", t.getAttribute("srcset"));
               var c = ",";
               if (
                 (t.getAttribute("data-background-delimiter") &&
