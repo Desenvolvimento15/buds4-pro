@@ -1,3 +1,8 @@
+.video_self {
+  height: 100%;
+  width: 100%;
+}
+
 .div1 {
   align-items: center;
   background: #000;
@@ -325,7 +330,7 @@
   font-weight: 700 !important;
   line-height: 0.164063rem;
   text-align: left;
-  width: 1.523438rem;
+  width: 1.623438rem;
 }
 .div1 .div3 .div4 .div18 .div23 .div26 {
   align-items: flex-start;
@@ -662,7 +667,7 @@
   font-weight: 700 !important;
   line-height: 0.234375rem;
   text-align: left;
-  width: 3.572656rem;
+  width: 3.472656rem;
 }
 .div1 .div50 .div53 {
   align-items: flex-start;
@@ -826,7 +831,7 @@
   flex-direction: column;
   justify-content: center;
   margin-left: 0.675781rem;
-  margin-top: 1.171875rem;
+  margin-top: 0.171875rem;
   min-height: 0.109375rem;
   width: 0.421875rem;
   z-index: 1;
@@ -895,7 +900,7 @@
   flex-direction: column;
   justify-content: center;
   margin-left: -2.597656rem;
-  margin-top: 0.082031rem;
+  margin-top: 0.2rem;
   min-height: 0.226563rem;
   width: 1.339844rem;
   z-index: 6;
@@ -1619,7 +1624,7 @@
   flex-direction: column;
   justify-content: center;
   margin-left: 1px;
-  margin-top: 0.117188rem;
+  margin-top: 0.17188rem;
   min-height: 0.25rem;
   width: 6.921875rem;
 }
@@ -1749,7 +1754,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: -4.0625rem;
+  margin-left: -4.7rem;
   margin-top: 2.492188rem;
   min-height: 0.078125rem;
   width: 0.644531rem;
@@ -1775,7 +1780,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: -2.003906rem;
+  margin-left: -2.8rem;
   margin-top: -7.71875rem;
   min-height: 0.078125rem;
   width: 0.394531rem;
@@ -2016,7 +2021,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: -6.164063rem;
+  margin-left: -5.54063rem;
   margin-top: 0.078125rem;
   min-height: 0.101563rem;
   z-index: 16;
